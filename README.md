@@ -22,7 +22,7 @@ O sistema possui uma classe principal que gerencia o fluxo de execução. Ao ins
 
 ```text
 Aluno: Junior | Média: 7.0 | Status: APROVADO
-Aluno: Ana    | Média: 5.25 | Status: REPROVADO
+Aluno: Ane    | Média: 5.25 | Status: REPROVADO
 ```
 
 ## 🛠️ Como Executar o Projeto
